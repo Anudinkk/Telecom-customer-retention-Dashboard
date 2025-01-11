@@ -54,9 +54,9 @@ These metrics establish the baseline for evaluating the current performance and 
 - Customers on **month-to-month contracts** are the biggest contributors to monthly charges but are more volatile in terms of churn.
 - **Two-year contracts**, while generating lower revenue, exhibit greater stability, highlighting the need for loyalty programs to lock in long-term commitments.
 
-**Opportunity:** Promote long-term contracts with exclusive benefits to balance revenue generation and stability.
-
 ---
+
+
 
 
 
