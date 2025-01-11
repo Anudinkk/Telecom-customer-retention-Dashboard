@@ -25,15 +25,11 @@ These metrics establish the baseline for evaluating the current performance and 
 - **Fiber Optic dominates** with 62.11% of total monthly charges, followed by **DSL** at 30.71%. Despite its higher cost, Fiber Optic's popularity suggests a strong demand for high-speed internet.
 - Customers with **no internet service** account for only 7.05% of charges, highlighting the company's core internet-driven revenue model.
 
-**Opportunity:** Address churn in Fiber Optic customers, as they represent the highest revenue potential but also pose the greatest churn risk.
-
 ### 2. **Churn Rate by Tenure and Internet Service**
 
 - Churn is significantly higher for customers with **shorter tenures**, particularly those using **Fiber Optic** services.
 - A clear trend emerges: **longer-tenured customers** exhibit lower churn rates, underscoring the value of loyalty-building initiatives.
-
-**Opportunity:** Introduce retention incentives such as discounts or perks for newer customers to extend their tenure.
-
+  
 ### 3. **Demographics: Gender and Senior Citizens**
 
 - **Multiple Lines Analysis:** The majority of customers do not use multiple lines. Those who do are evenly distributed across genders, indicating a balanced usage pattern.
@@ -41,7 +37,6 @@ These metrics establish the baseline for evaluating the current performance and 
   - 54.64% of senior citizens have **device protection**, while 40.81% do not.
   - This gap presents an opportunity to promote device protection plans tailored to the senior demographic, enhancing security and trust.
 
-**Opportunity:** Upsell device protection plans to senior citizens to improve satisfaction and minimize churn.
 
 ### 4. **Payment Methods and Contracts**
 
