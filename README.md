@@ -49,10 +49,6 @@ These metrics establish the baseline for evaluating the current performance and 
 - **Automatic payments** via Credit Card or Bank Transfer contribute to stable revenues and likely correlate with better retention rates.
 - Customers on **month-to-month contracts** generate the highest charges but show a higher propensity to churn due to lack of commitment.
 
-**Opportunity:**
-- Encourage electronic check users to switch to automatic payment methods by offering incentives.
-- Convert month-to-month customers to long-term contracts with loyalty rewards or bundled offers.
-
 ### 5. **Regional Trends and Monthly Charges**
 
 - Customers on **month-to-month contracts** are the biggest contributors to monthly charges but are more volatile in terms of churn.
