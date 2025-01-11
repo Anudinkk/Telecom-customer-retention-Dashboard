@@ -3,6 +3,9 @@
 The **Telecom Retention Dashboard** provides a deep dive into customer metrics, uncovering patterns and insights to enhance retention strategies, optimize service offerings, and drive customer satisfaction. Below is a detailed breakdown of the dashboard's visuals and insights to guide stakeholders in making data-driven decisions.
 
 ---
+![Screenshot (206)](https://github.com/user-attachments/assets/031dec6c-d821-4ab5-8591-30d70c5cb4ab)
+
+![Screenshot (207)](https://github.com/user-attachments/assets/3981fc5b-e462-407d-91c4-356f773f8d4f)
 
 ## **Key Highlights**
 
